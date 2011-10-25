@@ -1,0 +1,31 @@
+.csvuser{
+	margin : 50px ;
+	text-align: center;
+	/* border : 1px solid #F5E8E5 ; */
+}
+
+.updatedmessage{	
+	font-size: 20px;
+	background-color: #FFFFE0;
+    border-color: #E6DB55;
+    -moz-border-radius: 3px 3px 3px 3px;
+    border-style: solid;
+    border-width: 1px;    
+    padding: 0 0.6em;
+}
+
+.errormessage{
+	margin: 20px;
+	font-size: 20px;
+	background-color: #FFEBE8;
+    border-color: #CC0000;
+    -moz-border-radius: 3px 3px 3px 3px;
+    border-style: solid;
+    border-width: 1px;    
+    padding: 0 0.6em;
+    
+}
+
+.errormessage p{
+	text-align: center;
+}
